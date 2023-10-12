@@ -264,6 +264,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
+* [Airbrake.io](airbrake.io) - Error monitoring in production. 
 
 ## Natural Language Processing
 *Interactions with natural language.*
